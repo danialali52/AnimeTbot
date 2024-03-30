@@ -1,0 +1,25 @@
+[
+    {
+      "title": "Naruto",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQ5NGFiNWEtMmMyMC00MDdiLTg4YjktOGY5Yzc2MDUxMTE1XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_FMjpg_UX1000_.jpg",
+      "synopsis": "Naruto Uzumaki, a young ninja with a sealed demon fox spirit inside him, dreams of becoming the Hokage of his village.",
+      "language": "Japanese 🇯🇵",
+      "episodes": 12,
+    "sub": "https://example.com/anime1/sub",
+    "dub": "https://example.com/anime1/dub",
+    "download": "https://example.com/anime1/download",
+    "website": "https://www.anime-website1.com"
+    },
+    {
+      "title": "One Piece",
+      "image": "https://images.justwatch.com/poster/304340004/s332/season-3",
+      "synopsis": "Monkey D. Luffy sets out on a journey to find the legendary One Piece treasure and become the Pirate King.",
+      "language": "Japanese 🇯🇵",
+      "episodes": 12,
+    "sub": "https://example.com/anime1/sub",
+    "dub": "https://example.com/anime1/dub",
+    "download": "https://example.com/anime1/download",
+    "website": "https://www.anime-website1.com"
+    }
+  ]
+  
